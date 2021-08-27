@@ -1,5 +1,7 @@
 /// WARNING: Do not use this code, Richards equation cannot be simulated using explicit methods, I am working on updated codes using implicit methods
 
+/// WARNING: THIS IS A TEST PLATAFORM, DO NOT USE THIS CODE
+
 
 #include<iostream>
 #include<cmath>
