@@ -1,3 +1,6 @@
+/// WARNING: Do not use this code, Richards equation cannot be simulated using explicit methods, I am working on updated codes using implicit methods
+
+
 #include<iostream>
 #include<cmath>
 
