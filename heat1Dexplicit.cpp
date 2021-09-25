@@ -105,7 +105,7 @@ for(i=0; i < nx; i++){
 // prints the output data in terminal in gnuplot format
 // uncomment to see the outoput data
 // I have not included the code for exporting as *.dat, it is pretty simple though
-
+/*
 std::cout << "\n";
 std::cout << " Output data in gnuplot format   ";
 std::cout << "\n";
@@ -117,9 +117,9 @@ for(j=0; j < ntau; j++){
 for(i=0; i < nx; i++){
 		 std::cout <<  std::setprecision(4) << u[j][i] << std::endl;
 	}std::cout <<  std::endl;
+
 } 
-
-
+*/
  
 return 0;
 
